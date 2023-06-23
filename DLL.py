@@ -1,4 +1,4 @@
-class Node:
+class mahe:
     def __init__(self, data):
         self.data = data
         self.prev = None
